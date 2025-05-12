@@ -14,6 +14,10 @@
 - スタイリッシュなカラーパレット
 - 最適化されたパフォーマンス
 
+## サイトプレビュー
+
+サイトは https://yusukebb-cyber.github.io/tomuragiken/ でプレビューできます。
+
 ## 技術仕様
 
 - HTML5
@@ -51,7 +55,7 @@ tomuragiken/
 1. リポジトリをクローンまたはダウンロードします：
 
 ```bash
-git clone <リポジトリのURL>
+git clone https://github.com/yusukebb-cyber/tomuragiken.git
 ```
 
 2. プロジェクトディレクトリに移動します：
@@ -69,7 +73,7 @@ node server.js
 4. ブラウザで以下のURLにアクセスします：
 
 ```
-http://localhost:3000
+http://localhost:8080
 ```
 
 ## カスタマイズ方法
